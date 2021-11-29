@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/OTT-Platform/static/css/main.f0d1fd97.chunk.css",
+    "main.js": "/OTT-Platform/static/js/main.8286fc6a.chunk.js",
+    "main.js.map": "/OTT-Platform/static/js/main.8286fc6a.chunk.js.map",
+    "runtime-main.js": "/OTT-Platform/static/js/runtime-main.3e6a68b9.js",
+    "runtime-main.js.map": "/OTT-Platform/static/js/runtime-main.3e6a68b9.js.map",
+    "static/js/2.28632e59.chunk.js": "/OTT-Platform/static/js/2.28632e59.chunk.js",
+    "static/js/2.28632e59.chunk.js.map": "/OTT-Platform/static/js/2.28632e59.chunk.js.map",
+    "static/js/3.82145162.chunk.js": "/OTT-Platform/static/js/3.82145162.chunk.js",
+    "static/js/3.82145162.chunk.js.map": "/OTT-Platform/static/js/3.82145162.chunk.js.map",
+    "static/js/4.21a588ee.chunk.js": "/OTT-Platform/static/js/4.21a588ee.chunk.js",
+    "static/js/4.21a588ee.chunk.js.map": "/OTT-Platform/static/js/4.21a588ee.chunk.js.map",
+    "index.html": "/OTT-Platform/index.html",
+    "static/css/main.f0d1fd97.chunk.css.map": "/OTT-Platform/static/css/main.f0d1fd97.chunk.css.map",
+    "static/js/2.28632e59.chunk.js.LICENSE.txt": "/OTT-Platform/static/js/2.28632e59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6a68b9.js",
+    "static/js/2.28632e59.chunk.js",
+    "static/css/main.f0d1fd97.chunk.css",
+    "static/js/main.8286fc6a.chunk.js"
+  ]
+}
