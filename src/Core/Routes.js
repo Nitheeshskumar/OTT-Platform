@@ -12,7 +12,7 @@ export default function RootRoutes() {
         <Router>
             <Suspense fallback={<div>Loading...</div>}>
                 <Routes>
-                    <Route path="/" element={<ListingPageContainer/>} />
+                    <Route path="/OTT-Platform" element={<ListingPageContainer/>} />
                 </Routes>
             </Suspense>
         </Router>
