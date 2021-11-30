@@ -10,8 +10,8 @@ import Route from './Core/Routes';
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-    <Route />
-  </Provider>
+      <Route />
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );

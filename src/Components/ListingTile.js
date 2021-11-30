@@ -13,7 +13,7 @@ const ListingTile=({post})=>{
         maxHeight:'-webkit-fill-available'
     }
 return <div className="post gap-4 bg-black" style={divStyle}>
-    <img alt="back" src={post["poster-image"]} style={imgstyle}/>
+    <img alt="back" src={`${process.env.PUBLIC_URL}/${post["poster-image"]}`} style={imgstyle}/>
 <h6 className='text-white text-sm'> {post.name } </h6>
 </div>
 

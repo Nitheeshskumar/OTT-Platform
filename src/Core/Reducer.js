@@ -3,13 +3,13 @@ import { createSlice } from '@reduxjs/toolkit'
 export const RootReducer = createSlice({
   name: 'postList',
   initialState: {
-    list:[] ,
+    list: [],
   },
   reducers: {
 
     updateList: (state, action) => {
-        console.log(state,'dfd',action)
-      state.list = [...state.list,...action.payload]
+      console.log(state, 'dfd', action)
+      state.list = [...state.list, ...action.payload]
     },
   },
 })
